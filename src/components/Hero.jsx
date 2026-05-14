@@ -16,7 +16,7 @@ const Hero = () => {
         >
 
           <img
-            src="/profile.jpg"
+            src="/portfolio/profile.jpg"
             alt="profile"
             className="w-80 rounded-3xl border-4 border-blue-500 shadow-2xl"
           />
@@ -55,7 +55,7 @@ const Hero = () => {
           <div className="flex gap-5 mt-8">
 
             <a
-              href="/resume.pdf"
+              href="/portfolio/resume.pdf"
               download
               className="bg-blue-500 hover:bg-blue-600 px-6 py-3 rounded-xl"
             >
