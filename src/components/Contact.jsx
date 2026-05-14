@@ -12,12 +12,17 @@ const Contact = () => {
           Email: ramakanthreddy497@gmail.com
         </p>
 
+        <p className="text-xl mt-4">
+          Phone: +91 7676533122
+        </p>
+
         <div className="mt-8 flex justify-center gap-8">
 
           <a
             href="https://github.com/ramakanthreddy47"
             className="text-blue-400"
             target="_blank"
+            rel="noreferrer"
           >
             GitHub
           </a>
@@ -26,6 +31,7 @@ const Contact = () => {
             href="https://www.linkedin.com/in/ramakanth-reddy-e/"
             className="text-blue-400"
             target="_blank"
+            rel="noreferrer"
           >
             LinkedIn
           </a>
